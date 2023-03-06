@@ -84,7 +84,7 @@ function App() {
                 <h1>{suggestion[data.weather[0].icon]}</h1>
               )}
 
-              <p>Feels like</p>
+              {/* <p>Feels like</p> */}
             </div>
           </div>
         )}
